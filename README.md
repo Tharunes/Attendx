@@ -4,7 +4,7 @@ An intelligent face recognition-based attendance system that automates attendanc
 
 ## 🧠 System Workflow
 
-![System Workflow](<img width="1024" height="1536" alt="process_flow" src="https://github.com/user-attachments/assets/fc270d53-820c-4c06-b9ee-084464f01800" />)
+![System Workflow](https://github.com/Tharunes/Attendx/blob/main/Workflow/process_flow.png)
 
 ## Overview
 
